@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1564026089 source:c:\users\terry tschaekofske\documents\terry\programming\c exercises\sams_stratford\draw_poker\main.c
+	<stdio.h>
+	<time.h>
+	<ctype.h>
+	<stdlib.h>
+
