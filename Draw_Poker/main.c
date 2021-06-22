@@ -1,6 +1,5 @@
 /*Terry Tschaekofkse
 Draw_Poker.c*/
-// Draw poker from Stratford Book #1
 
 #include <stdio.h>
 #include <time.h>
